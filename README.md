@@ -1,4 +1,4 @@
-# 🍽️ AI Restaurant Booking Assistant - Jamun
+# 🍽️ AI Restaurant Booking Assistant 
 
 This project is an AI-powered chatbot for **Restaurant** that helps users with FAQs and bookings through a conversational interface. Built using [Streamlit](https://streamlit.io/) and [LangGraph](https://github.com/langchain-ai/langgraph), it uses a PDF-based RAG (Retrieval-Augmented Generation) pipeline to respond accurately to customer queries.
 
