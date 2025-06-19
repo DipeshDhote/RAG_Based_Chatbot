@@ -39,8 +39,6 @@ cd RAG_Based_Chatbot
 
 User: What are your opening hours?
 
-Bot: According to Document 1:
-
 Restaurant is open daily from 12 PM to 11 PM.
 
 User: Can I book a table for 4 people?
